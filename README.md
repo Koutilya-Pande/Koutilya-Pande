@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Koutilya Pande<br><br>A motivated Data Science/AI Enthusiast looking to leverage my strong programming skills in Python, C, SQL, and R, statistical<br>analytical aptitude and knowledge of data visualizations to effectively analyze, interpret, and present insights from large<br>datasets in an accurate and meaningful way. <br><br>👯 I’m looking to collaborate on building data-driven products.<br>🌱 I’m currently learning AI/Gen AI<br>💬 Ask me about ML/DS/DA/AI<br>⚡ Fun fact: Data is the new GOLD. If you punish the data enough, it will eventually give up and reveal its true form. 
+Hi, I am Koutilya Pande!<br><br>A motivated Data Science/AI Enthusiast looking to leverage my strong programming skills in Python, C, SQL, and R, statistical<br>analytical aptitude and knowledge of data visualizations to effectively analyze, interpret, and present insights from large<br>datasets in an accurate and meaningful way. <br><br>👯 I’m looking to collaborate on building data-driven products.<br>🌱 I’m currently learning AI/Gen AI<br>💬 Ask me about ML/DS/DA/AI<br>⚡ Fun fact: Data is the new GOLD. If you punish the data enough, it will eventually give up and reveal its true form. 
 
 
 ## 🌐 Socials:
